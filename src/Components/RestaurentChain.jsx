@@ -68,7 +68,7 @@ function RestaurentChain() {
                         }} className='Hotel-Card-img '>
                             <div className='Hotel-color'><h4 className='fw-bolder' ></h4></div>
                         </div>
-                        <h5 className='mt-3'>The Burger Junction</h5>
+                        <h5 className='mt-3'>The Burger banger</h5>
                         <i style={{color:"#20963a"}} className="fa-solid fa-star"></i>4.5
                         <p style={{fontWeight:"300"}}>American, Beverages<br />Kakkanad</p>
                     </div>
